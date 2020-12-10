@@ -1,5 +1,7 @@
 ## Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+The code should run with no issues using Python versions 3.*.
+
+For visualization of treemaps, installation of plotly.express is necessary. Apart from that, there should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. 
 
 ## Project Motivation
 For this project, I was using Stack Overflow data from 2019 to better understand: 
