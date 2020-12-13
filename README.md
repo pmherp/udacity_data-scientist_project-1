@@ -16,7 +16,7 @@ For this project, I was using Stack Overflow data from 2020 to better understand
 There is a jupyter notebook including all the code of my analysis. Moreover I included a python file for all functions used in the code and another python file mapping countries to continents that I found [here](https://gist.github.com/pamelafox/986163).
 
 ## Results
-The main findings of the code can be found at the post available _here_.
+The main findings of the code can be found at the post available [here](https://philip-57199.medium.com/this-analysis-will-make-you-rethink-how-much-you-work-3c83eed2c61c).
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/aitzaz/stack-overflow-developer-survey-2020).
