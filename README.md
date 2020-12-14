@@ -19,6 +19,6 @@ There is a jupyter notebook including all the code of my analysis. Moreover I in
 The main findings of the code can be found at the post available [here](https://philip-57199.medium.com/this-analysis-will-make-you-rethink-how-much-you-work-3c83eed2c61c).
 
 ## Licensing, Authors, Acknowledgements
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/aitzaz/stack-overflow-developer-survey-2020).
+I must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/aitzaz/stack-overflow-developer-survey-2020).
 
 Also I want to give credit to Pamela Fox, who provided the python file for mapping countries to continents.
